@@ -41,7 +41,7 @@ dependencies=[
     'einshape',
     'etils[epath]',
     'huggingface_hub',
-    'jax',
+    'jax[cuda13]',
     'jaxtyping',
     'kagglehub',
     'numpy',
